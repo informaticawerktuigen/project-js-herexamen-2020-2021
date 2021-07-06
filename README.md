@@ -68,8 +68,8 @@ Controleer je inzending door je eigen repository opnieuw te clonen in een tijdel
 
 ``` bash
 $ cd /tmp
-$ git clone https://www.github.com/url-naar-eigen-repo/project-javascript-connect4.git
-$ cd project-javascript-connect4
+$ git clone https://www.github.com/informaticawerktuigen2020-2021/herexamen-javascript-connect4-[github_accountnaam]
+$ cd herexamen-javascript-connect4-[github_accountnaam]
 $ firefox index.html
 ```
 
