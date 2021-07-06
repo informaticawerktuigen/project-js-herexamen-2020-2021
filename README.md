@@ -207,7 +207,7 @@ Via GitHub Classroom hebben jullie een eigen private kopie gekregen van deze rep
 Deze repository kan je clonen met het commando:
 
 ``` bash
-$ git clone https://www.github.com/informatica-werktuigen/herexamen-javascript-connect4-[github_accountnaam]
+$ git clone https://www.github.com/informaticawerktuigen2020-2021/herexamen-javascript-connect4-[github_accountnaam]
 ```
 
 De repository bevat reeds een basis-HTML bestand gekoppeld aan een leeg Javascript-bestand en een leeg CSS-bestand.
